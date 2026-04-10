@@ -3,6 +3,9 @@ streamlit-aggrid
 streamlit_timeline
 
 Pillow
+pandas
+plotly.express
+json
 
 
 
