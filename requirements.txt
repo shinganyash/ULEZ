@@ -1,1 +1,11 @@
-streamlit
+streamlit # the main package for making all of the site content and layout
+streamlit-aggrid
+streamlit_timeline
+
+Pillow
+
+
+
+
+
+#### You need to copy the text from the requirements-file
